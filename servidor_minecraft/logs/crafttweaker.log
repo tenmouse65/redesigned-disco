@@ -1,0 +1,104 @@
+[21:45:38.345][INFO]: CoT: Successfully identified and loaded ContentTweaker plugin contenttweaker:vanilla
+[21:45:38.352][INFO]: CoT: Successfully identified and loaded ContentTweaker plugin contenttweaker:forge
+[21:45:38.676][INFO]: Successfully identified and loaded plugin contenttweaker:core
+[21:45:38.687][INFO]: Successfully identified and loaded plugin jeitweaker:default
+[21:45:38.801][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[21:45:38.814][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[21:45:38.870][INFO]: Successfully identified and loaded plugin immersiveengineering:ct_module
+[21:45:43.266][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[21:45:43.271][INFO]: - 'contenttweaker' at version '1.0.0+13'
+[21:45:43.271][INFO]: - 'crafttweaker' at version '9.1.211'
+[21:45:43.271][INFO]: - 'createtweaker' at version '2.0.0.20'
+[21:45:43.271][INFO]: - 'farmersdelight' at version '1.18.2-1.2.3'
+[21:45:43.271][INFO]: - 'immersiveengineering' at version '1.18.2-8.4.0-161'
+[21:45:43.271][INFO]: - 'immersivepetroleum' at version '4.2.0-25'
+[21:45:43.271][INFO]: - 'jeitweaker' at version '3.0.0.9'
+[21:45:44.725][INFO]: Started loading scripts for loader 'contenttweaker'
+[21:45:45.481][INFO]: Compiling and executing scripts
+[21:45:45.648][INFO]: Successfully initialized modules [crafttweaker, contenttweaker, expansions]
+[21:45:45.654][INFO]: Loading file 'Generic\newitem.zs' with priority 0
+[21:45:45.903][INFO]: Registering object of type minecraft:creative_tab[S]{net.minecraft.world.item.CreativeModeTab} with name minecraft:deceased_tab
+[21:45:45.919][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:horde_beacon
+[21:45:45.992][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_solar_panel
+[21:45:46.000][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_ender_pearl
+[21:45:46.000][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:polyethylene
+[21:45:46.001][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:high_carbon_steel_alloy
+[21:45:46.001][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:resistant_fiber
+[21:45:46.002][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:resistant_fabric
+[21:45:46.002][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:rubber
+[21:45:46.002][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:research_paper_1
+[21:45:46.003][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:research_paper_2
+[21:45:46.004][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:research_paper_3
+[21:45:46.004][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:research_paper_4
+[21:45:46.006][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:research_paper_5
+[21:45:46.007][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:research_book
+[21:45:46.007][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:formula_x
+[21:45:46.008][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_electron_tube
+[21:45:46.008][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_component_electronic
+[21:45:46.008][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_component_electronic_adv
+[21:45:46.009][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:silica_dust
+[21:45:46.009][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_basic_processor
+[21:45:46.010][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_improved_processor
+[21:45:46.010][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_advanced_processor
+[21:45:46.011][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_1k_storage_part
+[21:45:46.011][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_4k_storage_part
+[21:45:46.012][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_16k_storage_part
+[21:45:46.012][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_64k_storage_part
+[21:45:46.014][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_64k_fluid_storage_part
+[21:45:46.014][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_256k_fluid_storage_part
+[21:45:46.015][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_1024k_fluid_storage_part
+[21:45:46.015][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_4096k_fluid_storage_part
+[21:45:46.016][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:x_factor
+[21:45:46.016][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:mold_basic_processor
+[21:45:46.017][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:mold_improved_processor
+[21:45:46.017][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:mold_advanced_processor
+[21:45:46.017][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_bullet
+[21:45:46.018][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:bullet_casing_9mm_round
+[21:45:46.018][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:bullet_casing_10_gauge_round
+[21:45:46.019][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:bullet_casing_46x30
+[21:45:46.019][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:bullet_casing_50bmg
+[21:45:46.020][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:bullet_casing_57x28
+[21:45:46.021][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:bullet_casing_58x42
+[21:45:46.021][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:bullet_casing_762x25
+[21:45:46.022][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:bullet_casing_762x39
+[21:45:46.022][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:bullet_casing_762x54
+[21:45:46.022][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:bullet_casing_ae50
+[21:45:46.023][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:bullet_casing_bmagnum
+[21:45:46.023][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:bullet_casing_bullet68
+[21:45:46.023][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:bullet_casing_bullet308
+[21:45:46.024][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:bullet_casing_lapua338
+[21:45:46.024][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:bullet_casing_nato556
+[21:45:46.024][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:bullet_casing_round45
+[21:45:46.025][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:bullet_casing_win3030
+[21:45:46.025][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:mold_bullet_casing_9mm_round
+[21:45:46.026][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:mold_bullet_casing_10_gauge_round
+[21:45:46.026][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:mold_bullet_casing_46x30
+[21:45:46.027][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:mold_bullet_casing_50bmg
+[21:45:46.027][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:mold_bullet_casing_57x28
+[21:45:46.027][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:mold_bullet_casing_58x42
+[21:45:46.027][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:mold_bullet_casing_762x25
+[21:45:46.028][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:mold_bullet_casing_762x39
+[21:45:46.028][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:mold_bullet_casing_762x54
+[21:45:46.029][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:mold_bullet_casing_ae50
+[21:45:46.029][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:mold_bullet_casing_bmagnum
+[21:45:46.030][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:mold_bullet_casing_bullet68
+[21:45:46.030][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:mold_bullet_casing_bullet308
+[21:45:46.030][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:mold_bullet_casing_lapua338
+[21:45:46.031][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:mold_bullet_casing_nato556
+[21:45:46.031][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:mold_bullet_casing_round45
+[21:45:46.032][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:mold_bullet_casing_win3030
+[21:45:46.032][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_battery
+[21:45:46.032][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_engine_piston
+[21:45:46.034][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_engine_3_cylinder
+[21:45:46.034][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_engine_6_cylinder
+[21:45:46.035][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_engine_truck
+[21:45:46.035][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_wheel
+[21:45:46.035][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_big_wheel
+[21:45:46.036][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_small_tank
+[21:45:46.036][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_medium_tank
+[21:45:46.036][INFO]: Registering object of type minecraft:item[R]{net.minecraft.world.item.Item} with name contenttweaker:incomplete_large_tank
+[21:45:46.037][INFO]: Execution for loader 'contenttweaker' completed successfully
+[21:45:58.827][INFO]: Started loading scripts for loader 'initialize'
+[21:45:58.888][INFO]: Compiling and executing scripts
+[21:45:58.891][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[21:45:58.926][INFO]: Execution for loader 'initialize' completed successfully

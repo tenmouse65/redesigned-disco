@@ -1,0 +1,17 @@
+{
+	id: "31668399-482e-4e3e-8638-207be2984191"
+	type: "player"
+	player_name: "Pablo"
+	ranks: {
+		31668399-482e-4e3e-8638-207be2984191: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Pablo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9059FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
