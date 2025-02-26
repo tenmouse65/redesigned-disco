@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-02-26 04:03:56 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-26 01:49:31 +0000"
@@ -275,6 +281,12 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-02-26 04:03:56 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_black_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-26 01:49:31 +0000"
@@ -284,6 +296,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-02-26 01:49:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-02-26 04:03:57 +0000"
     },
     "done": true
   },
