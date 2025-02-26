@@ -168,7 +168,7 @@
     "stripTranslationColors": false,
     "stripExtraGuiElements": false,
     "renderTooltips": true,
-    "configKeyCode": -1
+    "configKeyCode": 96
   },
   "displaySettings": {
     "presenceData": {
@@ -192,8 +192,7 @@
     "dynamicIcons": {
       "TqLxQuanZ": "https://mc-heads.net/avatar/21c3e01eead74f6e9dbfdc21637de84c",
       "default": "https://via.placeholder.com/256.png",
-      "localhost": "https://api.mcsrvstat.us/icon/localhost",
-      "pablo": "https://mc-heads.net/avatar/ca8082542b033bedaa6966a6c3a90e65"
+      "localhost": "https://api.mcsrvstat.us/icon/localhost"
     },
     "dynamicVariables": {
       "default": "Example Text",

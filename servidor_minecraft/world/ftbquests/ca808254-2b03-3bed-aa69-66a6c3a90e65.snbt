@@ -1,0 +1,25 @@
+{
+	version: 1
+	uuid: "ca8082542b033bedaa6966a6c3a90e65"
+	name: "pablo"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		047C5CB3ED9A8E47: 1
+		7CE16FEEA03DBE1F: 1
+	}
+	started: {
+		7CE16FEEA03DBE1F: 1740534573591L
+		4523079E2318BD94: 1740534573591L
+		2583DDB195B6CFEA: 1740534573591L
+		0000000000000001: 1740534573591L
+		2C6177EDC934F9DC: 1740534573593L
+		047C5CB3ED9A8E47: 1740534573593L
+	}
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

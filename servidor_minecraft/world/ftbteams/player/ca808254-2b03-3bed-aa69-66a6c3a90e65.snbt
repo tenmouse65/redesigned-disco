@@ -1,0 +1,17 @@
+{
+	id: "ca808254-2b03-3bed-aa69-66a6c3a90e65"
+	type: "player"
+	player_name: "pablo"
+	ranks: {
+		ca808254-2b03-3bed-aa69-66a6c3a90e65: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "pablo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF74"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

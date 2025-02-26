@@ -99,7 +99,7 @@
 
 	#Make animals fight back and no longer flee when attacked
 	[Animal."Animal Attacking"]
-		#If true, when attacked, animals will call other animals for help and attack back. Animals have a slightly bigger range to attack. Attack damage can't be changed via config due to limitation so use mods like Mobs Properties Randomness to increase the damage. Base damage is 4,0
+		#If true, when attacked, animals will call other animals for help and attack back. Animals have a slightly bigger range to attack. Attack damage can't be changed via config due to limitation so use mods like Mobs Properties Randomness to increase the damage. Base damage is 4.0
 		"Animals Fight back" = true
 		#If true, when attacked, animals will no longer flee.
 		"Animals No Longer Flee" = true
@@ -394,7 +394,7 @@
 
 	#Make villagers fight back
 	[Villager."Villager Attacking"]
-		#If true, when attacked, villagers will call other villagers for help and attack back. Attack damage can't be changed via config due to limitation so use mods like Mobs Properties Randomness to increase the damage. Base damage is 4,0
+		#If true, when attacked, villagers will call other villagers for help and attack back. Attack damage can't be changed via config due to limitation so use mods like Mobs Properties Randomness to increase the damage. Base damage is 4.0
 		"Villagers Fight back" = true
 		#Movement speed multiplier when attacking.
 		#Range: 0.0 ~ 4.0
