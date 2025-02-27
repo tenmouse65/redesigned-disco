@@ -1,0 +1,17 @@
+{
+	id: "f3dcdafd-0f62-3cc6-900c-fbb4dd378733"
+	type: "player"
+	player_name: "Sapermix"
+	ranks: {
+		f3dcdafd-0f62-3cc6-900c-fbb4dd378733: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Sapermix"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFEC59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

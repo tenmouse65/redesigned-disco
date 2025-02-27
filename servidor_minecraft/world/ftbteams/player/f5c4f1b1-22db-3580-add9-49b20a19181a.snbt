@@ -1,0 +1,17 @@
+{
+	id: "f5c4f1b1-22db-3580-add9-49b20a19181a"
+	type: "player"
+	player_name: "TenMouse"
+	ranks: {
+		f5c4f1b1-22db-3580-add9-49b20a19181a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "TenMouse"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5974FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

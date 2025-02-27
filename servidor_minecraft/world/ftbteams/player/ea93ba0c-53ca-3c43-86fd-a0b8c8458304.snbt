@@ -1,0 +1,17 @@
+{
+	id: "ea93ba0c-53ca-3c43-86fd-a0b8c8458304"
+	type: "player"
+	player_name: "Fidelito"
+	ranks: {
+		ea93ba0c-53ca-3c43-86fd-a0b8c8458304: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Fidelito"
+		"ftbteams:description": ""
+		"ftbteams:color": "#70FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "6a2f121d-bc0c-314f-ac02-e1bcfbe1748f"
+	type: "player"
+	player_name: "CONSTITUCION"
+	ranks: {
+		6a2f121d-bc0c-314f-ac02-e1bcfbe1748f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "CONSTITUCION"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5993"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

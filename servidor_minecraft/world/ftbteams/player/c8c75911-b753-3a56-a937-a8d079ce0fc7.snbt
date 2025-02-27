@@ -1,0 +1,17 @@
+{
+	id: "c8c75911-b753-3a56-a937-a8d079ce0fc7"
+	type: "player"
+	player_name: "SKOLLGAAAA"
+	ranks: {
+		c8c75911-b753-3a56-a937-a8d079ce0fc7: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "SKOLLGAAAA"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59DCFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
