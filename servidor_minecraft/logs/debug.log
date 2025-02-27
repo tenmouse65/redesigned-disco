@@ -16241,3 +16241,40 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [26Feb2025 23:56:23.877] [Netty Epoll Server IO #4/DEBUG] [mixin/]: Mixing ServerStatusMixin$ServerStatusSerializerMixin from bcc.mixins.json into net.minecraft.network.protocol.status.ServerStatus$Serializer
 [26Feb2025 23:56:40.357] [Worker-Main5/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main5 shutdown
 [26Feb2025 23:57:40.357] [Worker-Main21/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main21 shutdown
+[26Feb2025 23:58:35.097] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[26Feb2025 23:58:35.147] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[26Feb2025 23:58:40.357] [Worker-Main8/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main8 shutdown
+[26Feb2025 23:58:40.998] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[26Feb2025 23:58:40.998] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[26Feb2025 23:58:40.998] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[26Feb2025 23:58:40.999] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[26Feb2025 23:58:40.999] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[26Feb2025 23:58:41.007] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[26Feb2025 23:58:41.007] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[26Feb2025 23:58:41.008] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[26Feb2025 23:58:41.010] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[26Feb2025 23:58:41.011] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[26Feb2025 23:58:41.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 23:58:41.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 23:59:40.357] [Worker-Main4/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main4 shutdown
+[27Feb2025 00:00:40.357] [Worker-Main2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main2 shutdown
+[27Feb2025 00:01:40.357] [Worker-Main9/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main9 shutdown
+[27Feb2025 00:01:55.247] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[27Feb2025 00:02:40.357] [Worker-Main13/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main13 shutdown
+[27Feb2025 00:03:40.357] [Worker-Main22/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main22 shutdown
+[27Feb2025 00:03:40.998] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[27Feb2025 00:03:40.998] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[27Feb2025 00:03:40.998] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[27Feb2025 00:03:40.998] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[27Feb2025 00:03:40.999] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[27Feb2025 00:03:41.007] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[27Feb2025 00:03:41.007] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[27Feb2025 00:03:41.008] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[27Feb2025 00:03:41.009] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[27Feb2025 00:03:41.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 00:03:41.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 00:04:40.357] [Worker-Main18/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main18 shutdown
+[27Feb2025 00:05:15.197] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[27Feb2025 00:05:40.357] [Worker-Main3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main3 shutdown
+[27Feb2025 00:06:40.357] [Worker-Main6/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main6 shutdown
+[27Feb2025 00:07:40.357] [Worker-Main19/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main19 shutdown
