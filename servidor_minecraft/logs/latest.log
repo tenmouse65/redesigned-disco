@@ -1050,3 +1050,64 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [01Mar2025 04:34:32.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IN left the game
 [01Mar2025 04:34:32.405] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8402eb85-0f29-3eca-a89c-5cfdb4065c95
 [01Mar2025 04:34:32.406] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client IN
+[01Mar2025 04:35:22.829] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6a2f121d-bc0c-314f-ac02-e1bcfbe1748f timed out
+[01Mar2025 04:35:22.829] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CONSTITUCION
+[01Mar2025 04:35:22.830] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CONSTITUCION
+[01Mar2025 04:35:27.773] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6a2f121d-bc0c-314f-ac02-e1bcfbe1748f
+[01Mar2025 04:35:28.771] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6a2f121d-bc0c-314f-ac02-e1bcfbe1748f
+[01Mar2025 04:35:28.772] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CONSTITUCION (6a2f121d-bc0c-314f-ac02-e1bcfbe1748f) successfully connected to voice chat
+[01Mar2025 04:36:50.006] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6f19acb
+[01Mar2025 04:36:50.011] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Auron[/100.113.26.26:51045] logged in with entity id 67252 at (302.03667261543393, 67.0, 19.949313876014283)
+[01Mar2025 04:36:50.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Auron joined the game
+[01Mar2025 04:36:50.026] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:36:50.037] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for ba8b9b91-c8b2-3e08-a4d9-38b91d4f3b80
+[01Mar2025 04:36:50.990] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Auron (17)
+[01Mar2025 04:36:50.991] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Auron
+[01Mar2025 04:36:56.110] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@420a647d
+[01Mar2025 04:36:56.114] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SKOLLGAAAA[/100.65.231.63:52099] logged in with entity id 67927 at (391.98963140372183, 63.0, -403.6725544939122)
+[01Mar2025 04:36:56.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SKOLLGAAAA joined the game
+[01Mar2025 04:36:56.128] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:36:56.138] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for c8c75911-b753-3a56-a937-a8d079ce0fc7
+[01Mar2025 04:36:58.770] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SKOLLGAAAA (17)
+[01Mar2025 04:36:58.770] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SKOLLGAAAA
+[01Mar2025 04:37:01.250] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba8b9b91-c8b2-3e08-a4d9-38b91d4f3b80
+[01Mar2025 04:37:02.254] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba8b9b91-c8b2-3e08-a4d9-38b91d4f3b80
+[01Mar2025 04:37:02.255] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Auron (ba8b9b91-c8b2-3e08-a4d9-38b91d4f3b80) successfully connected to voice chat
+[01Mar2025 04:37:08.381] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/69330, l='ServerLevel[world]', x=450.50, y=50.00, z=-298.50]
+[01Mar2025 04:37:18.749] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/70349, l='ServerLevel[world]', x=449.50, y=49.00, z=-300.50]
+[01Mar2025 04:37:19.436] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c8c75911-b753-3a56-a937-a8d079ce0fc7
+[01Mar2025 04:37:20.437] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c8c75911-b753-3a56-a937-a8d079ce0fc7
+[01Mar2025 04:37:20.437] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player SKOLLGAAAA (c8c75911-b753-3a56-a937-a8d079ce0fc7) successfully connected to voice chat
+[01Mar2025 04:38:05.899] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/75185, l='ServerLevel[world]', x=454.50, y=50.00, z=-298.50]
+[01Mar2025 04:39:49.259] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6736a139
+[01Mar2025 04:39:49.264] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IN[/100.75.57.51:62148] logged in with entity id 87087 at (-278.9197381986494, 72.0, -86.78073184703085)
+[01Mar2025 04:39:49.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IN joined the game
+[01Mar2025 04:39:49.278] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:39:49.319] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8402eb85-0f29-3eca-a89c-5cfdb4065c95
+[01Mar2025 04:39:50.131] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of IN (17)
+[01Mar2025 04:39:50.132] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to IN
+[01Mar2025 04:39:53.647] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/87796, l='ServerLevel[world]', x=454.50, y=53.00, z=-304.50]
+[01Mar2025 04:40:01.688] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8402eb85-0f29-3eca-a89c-5cfdb4065c95
+[01Mar2025 04:40:02.689] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8402eb85-0f29-3eca-a89c-5cfdb4065c95
+[01Mar2025 04:40:02.690] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player IN (8402eb85-0f29-3eca-a89c-5cfdb4065c95) successfully connected to voice chat
+[01Mar2025 04:40:40.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IN was slain by Zombie
+[01Mar2025 04:40:41.898] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/93452, l='ServerLevel[world]', x=164.50, y=58.00, z=-87.50]
+[01Mar2025 04:40:41.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 04:40:41.921] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:40:48.047] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/94244, l='ServerLevel[world]', x=130.50, y=51.00, z=127.50]
+[01Mar2025 04:41:00.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CONSTITUCION) moved wrongly! 0.4997305179994953
+[01Mar2025 04:41:00.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CONSTITUCION) moved wrongly! 0.4998209127008977
+[01Mar2025 04:41:28.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CONSTITUCION) moved wrongly! 0.3255976925003168
+[01Mar2025 04:41:28.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CONSTITUCION) moved wrongly! 0.42734351809497184
+[01Mar2025 04:41:28.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CONSTITUCION) moved wrongly! 0.7699809871234748
+[01Mar2025 04:41:28.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CONSTITUCION) moved wrongly! 1.0783547010800127
+[01Mar2025 04:41:28.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CONSTITUCION) moved wrongly! 1.3558910362886962
+[01Mar2025 04:43:09.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CONSTITUCION has made the advancement [Acquire Hardware]
+[01Mar2025 04:43:54.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Auron has reached the goal [Dinner's Served!]
+[01Mar2025 04:43:58.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CONSTITUCION has made the advancement [Isn't It Iron Pick]
+[01Mar2025 04:44:20.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IN was slain by Runner
+[01Mar2025 04:44:21.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 04:44:21.829] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:44:55.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IN was slain by TenMouse
+[01Mar2025 04:44:56.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 04:44:56.930] [Server thread/INFO] [tac/]: PENDING
