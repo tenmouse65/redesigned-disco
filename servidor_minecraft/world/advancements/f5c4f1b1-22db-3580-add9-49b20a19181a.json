@@ -483,6 +483,7 @@
       "minecraft:beach": "2025-02-27 01:27:10 +0000",
       "minecraft:lukewarm_ocean": "2025-02-27 01:26:35 +0000",
       "minecraft:river": "2025-02-27 01:22:10 +0000",
+      "minecraft:stony_shore": "2025-03-01 05:56:46 +0000",
       "minecraft:forest": "2025-02-27 01:52:49 +0000",
       "minecraft:desert": "2025-02-27 00:19:44 +0000",
       "minecraft:jungle": "2025-02-27 04:24:10 +0000",
@@ -673,6 +674,12 @@
   "comforts:hammock_lime_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-27 00:16:52 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-03-01 05:56:52 +0000"
     },
     "done": true
   },
