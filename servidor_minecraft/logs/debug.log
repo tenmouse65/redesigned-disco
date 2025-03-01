@@ -19563,3 +19563,358 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [01Mar2025 04:44:55.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IN was slain by TenMouse
 [01Mar2025 04:44:56.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [01Mar2025 04:44:56.930] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:45:08.143] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[01Mar2025 04:45:08.193] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[01Mar2025 04:45:15.573] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-97
+[01Mar2025 04:45:15.573] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-98
+[01Mar2025 04:45:15.573] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-99
+[01Mar2025 04:45:15.586] [IO-Worker-92/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-100
+[01Mar2025 04:45:15.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 04:45:15.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 04:45:20.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IN was decimated by TenMouse
+[01Mar2025 04:45:22.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 04:45:22.447] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:45:43.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IN was executed by TenMouse
+[01Mar2025 04:45:44.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 04:45:44.939] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:46:12.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CONSTITUCION has made the advancement [Sweet Dreams]
+[01Mar2025 04:46:19.112] [IO-Worker-100/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-101
+[01Mar2025 04:47:05.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IN was slain by Runner
+[01Mar2025 04:47:06.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 04:47:06.522] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:47:09.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TenMouse was slain by Drowned
+[01Mar2025 04:47:13.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 04:47:13.070] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:47:37.476] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:47:38.018] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:47:38.069] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:06.906] [IO-Worker-101/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-102
+[01Mar2025 04:48:09.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IN was slain by Runner
+[01Mar2025 04:48:10.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 04:48:10.419] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:48:28.343] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[01Mar2025 04:48:34.497] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/139515, l='ServerLevel[world]', x=163.50, y=58.00, z=-85.50]
+[01Mar2025 04:48:49.672] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.187] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.187] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.221] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.279] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.279] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.329] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.370] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.371] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.417] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.480] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.482] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.564] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.591] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.591] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.634] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.636] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.677] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.733] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.733] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.777] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.783] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.820] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.891] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.891] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.922] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.985] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:50.985] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.067] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.067] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.075] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.115] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.128] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.170] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.218] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.219] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.269] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.333] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.333] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.375] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.384] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.426] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.474] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.480] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.519] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.578] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.579] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.620] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.671] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.671] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.729] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.729] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.772] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.835] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.835] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.874] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.876] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.926] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:51.973] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.033] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.036] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.093] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.124] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.174] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.188] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.235] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.235] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.285] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.315] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.341] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.381] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.392] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.423] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.476] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.529] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.529] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.578] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.589] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.629] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.677] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.686] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.727] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.785] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.785] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.829] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.837] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.867] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:52.925] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:53.677] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.169] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.233] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.233] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.265] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.323] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.326] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.375] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.386] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.425] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.469] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.479] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.565] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.565] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.587] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.629] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.683] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.683] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.717] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.778] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.786] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.823] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.830] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.875] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.881] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.923] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.978] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:54.979] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.018] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.025] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.085] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.167] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.177] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.177] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.231] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.232] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.271] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.331] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.331] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.377] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.389] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.424] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.477] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.488] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.527] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.538] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.583] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.666] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.669] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.737] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.737] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.781] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.781] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.829] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.878] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.879] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.924] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.927] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.998] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:55.998] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.033] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.075] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.075] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.119] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.219] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.219] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.239] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.239] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.281] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.337] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.338] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.377] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.429] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.439] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.467] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.525] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.525] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.570] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.576] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.631] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.631] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.719] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.728] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.767] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.825] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.825] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.881] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.881] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.924] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.925] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:56.981] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.019] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.019] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.073] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.073] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.120] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.183] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.219] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.231] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.269] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.279] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.333] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.373] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.374] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.426] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.438] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.483] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.522] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.568] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.590] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.593] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.643] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.717] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.717] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.717] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.775] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.841] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.841] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.889] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.889] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.968] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.979] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:57.991] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:58.025] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:58.025] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:58.073] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:58.137] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:58.139] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:58.169] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:58.225] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:58.225] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:58.281] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:48:58.292] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:49:00.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IN has made the advancement [First Day]
+[01Mar2025 04:49:02.931] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:49:03.418] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:49:03.473] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:49:03.519] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:49:03.527] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:49:03.583] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:49:03.583] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:49:03.622] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:49:03.669] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:49:03.676] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:49:03.726] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:49:03.781] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:49:03.792] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:49:03.843] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:49:03.843] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:49:03.885] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:49:03.915] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:49:03.918] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:49:03.977] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:49:03.977] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:49:04.031] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:49:06.617] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:49:15.391] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-103
+[01Mar2025 04:49:36.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-386, y=72, z=-2} BlockPos{x=-386, y=70, z=-2}
+[01Mar2025 04:49:37.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IN was slain by The Wheezer
+[01Mar2025 04:49:38.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 04:49:38.117] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:50:06.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IN was slain by TenMouse
+[01Mar2025 04:50:07.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 04:50:07.665] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:50:15.573] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-104
+[01Mar2025 04:50:15.573] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-105
+[01Mar2025 04:50:15.590] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
+[01Mar2025 04:50:15.590] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
+[01Mar2025 04:50:15.591] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[01Mar2025 04:50:15.592] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[01Mar2025 04:50:15.592] [IO-Worker-104/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[01Mar2025 04:50:15.592] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[01Mar2025 04:50:15.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 04:50:15.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 04:50:21.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IN was slain by SKOLLGAAAA
+[01Mar2025 04:50:22.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 04:50:22.968] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:50:35.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IN was slain by TenMouse
+[01Mar2025 04:50:36.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 04:50:36.620] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:50:44.620] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['IN'/131187, l='ServerLevel[world]', x=-189.90, y=66.00, z=-115.65] died: entity.hordes.ZombiePlayer.chat was slain by TenMouse
+[01Mar2025 04:50:46.276] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['IN'/115920, l='ServerLevel[world]', x=-188.38, y=66.30, z=-123.48] died: entity.hordes.ZombiePlayer.chat was slain by TenMouse
+[01Mar2025 04:50:57.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IN was slain by TenMouse
+[01Mar2025 04:50:58.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 04:50:58.621] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:51:16.775] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:51:17.525] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:51:18.031] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:51:33.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SKOLLGAAAA> IVAN?
+[01Mar2025 04:51:48.293] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[01Mar2025 04:51:48.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CONSTITUCION> gaaaa:monka_gun::monka_gun::monka_gun::monka_gun:
+[01Mar2025 04:52:00.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SKOLLGAAAA> MANO ?
+[01Mar2025 04:52:12.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TenMouse> :monka_gun::monka_gun::monka_gun::monka_gun:
+[01Mar2025 04:52:15.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CONSTITUCION> :peped::peped::peped::peped::peped:
+[01Mar2025 04:52:32.723] [Worker-Main58/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:desert1
+[01Mar2025 04:52:39.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IN was slain by Runner
+[01Mar2025 04:52:40.466] [IO-Worker-111/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[01Mar2025 04:52:40.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 04:52:40.619] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:52:56.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CONSTITUCION died of heatstroke
+[01Mar2025 04:53:01.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <IN> son en paz
+[01Mar2025 04:53:02.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 04:53:02.069] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:53:25.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SKOLLGAAAA> TE QUEREMOS LLEVA ALA HOME
+[01Mar2025 04:53:25.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <IN> ya estoy loco hace tiempo que no juego minecraft
+[01Mar2025 04:53:39.317] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:53:39.815] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:53:39.881] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:53:39.917] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:53:39.964] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:53:39.969] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:53:40.017] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:53:40.091] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:53:40.091] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:53:40.121] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:53:40.123] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:53:40.175] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:53:40.217] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:53:40.227] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:53:40.271] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:54:08.771] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:54:10.019] [IO-Worker-112/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[01Mar2025 04:54:30.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <IN> voy a explorar un rato
+[01Mar2025 04:54:45.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SKOLLGAAAA> PERO SSI TIENES DONDE ES LA HOME?
+[01Mar2025 04:55:08.193] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[01Mar2025 04:55:08.243] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[01Mar2025 04:55:15.588] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[01Mar2025 04:55:15.588] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[01Mar2025 04:55:15.588] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[01Mar2025 04:55:15.589] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[01Mar2025 04:55:15.589] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[01Mar2025 04:55:15.589] [IO-Worker-114/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[01Mar2025 04:55:15.590] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
+[01Mar2025 04:55:15.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 04:55:15.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 04:55:17.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TenMouse> aqui

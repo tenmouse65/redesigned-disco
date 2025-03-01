@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_apple": "2025-03-01 04:53:55 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-27 05:08:29 +0000"
@@ -224,6 +230,12 @@
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-27 05:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-01 04:43:58 +0000"
     },
     "done": true
   },
@@ -428,6 +440,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-01 04:46:12 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-27 05:08:29 +0000"
@@ -532,7 +550,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombie": "2025-02-27 05:41:36 +0000"
+      "minecraft:zombie": "2025-02-27 05:41:36 +0000",
+      "minecraft:drowned": "2025-03-01 04:48:56 +0000"
     },
     "done": false
   },
@@ -632,6 +651,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-03-01 04:43:09 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-02-27 05:08:29 +0000"
@@ -642,6 +667,12 @@
     "criteria": {
       "has_blazepowder": "2025-02-27 05:08:29 +0000",
       "has_bolt": "2025-02-27 05:08:29 +0000"
+    },
+    "done": true
+  },
+  "crossbowverhaul:recipes/combat/bolt_iron": {
+    "criteria": {
+      "has_ingot": "2025-03-01 04:43:09 +0000"
     },
     "done": true
   },

@@ -145,6 +145,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "lush_savanna": "2025-03-01 04:48:52 +0000",
       "dryland": "2025-03-01 04:33:08 +0000"
     },
     "done": false
@@ -157,7 +158,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2025-03-01 04:34:14 +0000"
+      "minecraft:river": "2025-03-01 04:34:14 +0000",
+      "minecraft:desert": "2025-03-01 04:42:41 +0000",
+      "minecraft:warm_ocean": "2025-03-01 04:45:14 +0000"
     },
     "done": false
   },
@@ -194,6 +197,12 @@
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2025-03-01 04:33:08 +0000"
+    },
+    "done": true
+  },
+  "ag_day_counter:firts_day_advancement": {
+    "criteria": {
+      "firts_day_advancement": "2025-03-01 04:49:00 +0000"
     },
     "done": true
   },
