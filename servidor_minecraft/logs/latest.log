@@ -1264,3 +1264,4 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [01Mar2025 05:17:04.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=486, y=63, z=757} BlockPos{x=486, y=63, z=758}
 [01Mar2025 05:17:48.278] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=432, y=64, z=830} BlockPos{x=433, y=64, z=830}
 [01Mar2025 05:25:52.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SKOLLGAAAA has made the advancement ['X' Marks the Spot]
+[01Mar2025 05:35:11.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2945ms or 58 ticks behind

@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-03-01 05:25:52 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-27 04:04:11 +0000"
@@ -359,7 +365,8 @@
       "bayou": "2025-03-01 05:14:32 +0000",
       "floodplain": "2025-03-01 05:14:39 +0000",
       "lush_savanna": "2025-02-27 05:15:41 +0000",
-      "dryland": "2025-02-27 04:04:11 +0000"
+      "dryland": "2025-02-27 04:04:11 +0000",
+      "rainforest": "2025-03-01 05:30:29 +0000"
     },
     "done": false
   },
@@ -459,6 +466,12 @@
       "has_the_recipe": "2025-02-27 04:04:11 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-03-01 05:25:52 +0000"
+    },
+    "done": false
   },
   "farmersdelight:main/root": {
     "criteria": {
