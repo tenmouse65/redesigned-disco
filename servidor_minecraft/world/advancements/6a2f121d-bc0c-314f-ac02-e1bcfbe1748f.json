@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "ag_day_counter:tenth_day_advancement": {
+    "criteria": {
+      "tenth_day_advancement": "2025-03-01 05:50:02 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:recipes/thermolith": {
     "criteria": {
       "has_recipe": "2025-02-27 05:08:29 +0000"
@@ -427,8 +433,11 @@
       "minecraft:forest": "2025-02-27 05:37:13 +0000",
       "minecraft:desert": "2025-02-27 05:13:04 +0000",
       "minecraft:jungle": "2025-02-27 05:37:29 +0000",
+      "minecraft:ocean": "2025-03-01 05:47:31 +0000",
       "minecraft:windswept_savanna": "2025-03-01 05:13:24 +0000",
-      "minecraft:warm_ocean": "2025-02-27 05:19:03 +0000"
+      "minecraft:warm_ocean": "2025-02-27 05:19:03 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-03-01 05:44:38 +0000",
+      "minecraft:savanna": "2025-03-01 05:47:13 +0000"
     },
     "done": false
   },

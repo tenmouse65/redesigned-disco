@@ -21449,3 +21449,228 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [01Mar2025 05:46:26.927] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
 [01Mar2025 05:46:26.933] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
 [01Mar2025 05:46:27.278] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 05:46:32.931] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 3] Saved.
+[01Mar2025 05:46:32.931] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 2] Saved.
+[01Mar2025 05:46:32.931] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[3, 3] Saved.
+[01Mar2025 05:46:32.933] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[3, 4] Saved.
+[01Mar2025 05:46:32.936] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[01Mar2025 05:46:32.938] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[2, 3] Saved.
+[01Mar2025 05:46:32.938] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 3] Saved.
+[01Mar2025 05:46:32.939] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[2, 4] Saved.
+[01Mar2025 05:46:32.941] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[2, 2] Saved.
+[01Mar2025 05:46:32.948] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-188
+[01Mar2025 05:46:33.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 05:46:33.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 05:46:38.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CONSTITUCION) moved wrongly! 0.35605310046662453
+[01Mar2025 05:46:38.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CONSTITUCION) moved wrongly! 0.5168942066125055
+[01Mar2025 05:46:38.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CONSTITUCION) moved wrongly! 0.6616511983088458
+[01Mar2025 05:46:50.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2451ms or 49 ticks behind
+[01Mar2025 05:47:14.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8899ms or 177 ticks behind
+[01Mar2025 05:47:34.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4963ms or 99 ticks behind
+[01Mar2025 05:47:40.441] [IO-Worker-187/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-189
+[01Mar2025 05:47:42.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SKOLLGAAAA) moved wrongly! 0.26299039073728636
+[01Mar2025 05:47:42.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SKOLLGAAAA) moved wrongly! 0.40187444409093587
+[01Mar2025 05:47:42.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SKOLLGAAAA) moved wrongly! 0.5582642389060766
+[01Mar2025 05:47:46.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CONSTITUCION) moved wrongly! 0.4624998967628926
+[01Mar2025 05:47:46.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CONSTITUCION) moved wrongly! 0.3971873965579107
+[01Mar2025 05:47:46.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CONSTITUCION) moved wrongly! 0.33067164992098697
+[01Mar2025 05:48:00.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3902ms or 78 ticks behind
+[01Mar2025 05:48:04.010] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=false, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.010] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=true, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.010] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=false, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.010] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=true, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.010] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=false, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.010] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=true, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.010] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=false, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.010] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=true, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.010] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=false, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.010] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=true, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.010] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=false, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=true, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=false, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=true, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=false, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=true, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=false, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=true, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=false, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=true, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=false, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=true, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=false, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=true, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=false, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=true, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=false, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=true, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=false, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=true, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=false, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=true, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=false, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=true, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=false, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=true, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=false, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=true, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=false, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=true, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.012] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=false, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.012] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=true, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:04.012] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=false, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
+[01Mar2025 05:48:11.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SKOLLGAAAA) moved wrongly! 0.5095792456693289
+[01Mar2025 05:48:11.366] [Worker-Main61/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[3, 5]
+[01Mar2025 05:48:17.900] [Worker-Main10/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[4, 4]
+[01Mar2025 05:48:22.333] [Worker-Main57/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[4, 5]
+[01Mar2025 05:48:22.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SKOLLGAAAA) moved wrongly! 0.6143955586946959
+[01Mar2025 05:48:22.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SKOLLGAAAA) moved wrongly! 0.7195190958555031
+[01Mar2025 05:48:22.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SKOLLGAAAA) moved wrongly! 1.0337116635628263
+[01Mar2025 05:48:22.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SKOLLGAAAA) moved wrongly! 1.1833445811921592
+[01Mar2025 05:48:22.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SKOLLGAAAA) moved wrongly! 1.4261292650558062
+[01Mar2025 05:48:22.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SKOLLGAAAA) moved wrongly! 0.6490504886055533
+[01Mar2025 05:48:22.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SKOLLGAAAA) moved wrongly! 0.5519001382831448
+[01Mar2025 05:48:22.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SKOLLGAAAA) moved wrongly! 0.7951050308201957
+[01Mar2025 05:48:22.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SKOLLGAAAA) moved wrongly! 0.6980998673584509
+[01Mar2025 05:48:26.494] [Worker-Main58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2083, y=96, z=2572}
+[01Mar2025 05:48:26.494] [Worker-Main58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2083, y=96, z=2572}
+[01Mar2025 05:48:32.667] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[01Mar2025 05:49:28.857] [IO-Worker-186/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-190
+[01Mar2025 05:49:31.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 75966ms or 1519 ticks behind
+[01Mar2025 05:49:31.188] [IO-Worker-186/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-191
+[01Mar2025 05:49:31.239] [IO-Worker-186/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-193
+[01Mar2025 05:49:31.239] [IO-Worker-188/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-192
+[01Mar2025 05:49:38.110] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@6a6f0555]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@6a6f0555 ignoring light level
+[01Mar2025 05:49:38.111] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=0] to hordespawn on day 30
+[01Mar2025 05:49:38.111] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 30
+[01Mar2025 05:49:38.111] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 30
+[01Mar2025 05:49:38.111] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6f511f9c
+[01Mar2025 05:49:38.112] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6f511f9c
+[01Mar2025 05:49:38.112] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@78e726b4
+[01Mar2025 05:49:38.112] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@78e726b4
+[01Mar2025 05:49:38.113] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@541c8744
+[01Mar2025 05:49:38.113] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@541c8744
+[01Mar2025 05:49:38.114] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@60f715ee
+[01Mar2025 05:49:38.114] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@60f715ee
+[01Mar2025 05:49:38.114] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@20a21632
+[01Mar2025 05:49:38.115] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@20a21632
+[01Mar2025 05:49:38.115] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1952a010
+[01Mar2025 05:49:38.115] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1952a010
+[01Mar2025 05:49:38.116] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5355ff36
+[01Mar2025 05:49:38.116] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5355ff36
+[01Mar2025 05:49:38.116] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@704f14d7
+[01Mar2025 05:49:38.116] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@704f14d7
+[01Mar2025 05:49:38.117] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@48cac6e9
+[01Mar2025 05:49:38.117] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@48cac6e9
+[01Mar2025 05:49:38.117] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4a4ac3c1
+[01Mar2025 05:49:38.117] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4a4ac3c1
+[01Mar2025 05:49:38.118] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@70f21cf7
+[01Mar2025 05:49:38.118] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@70f21cf7
+[01Mar2025 05:49:38.118] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3f1d8eeb
+[01Mar2025 05:49:38.119] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3f1d8eeb
+[01Mar2025 05:49:38.119] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4badfa9c
+[01Mar2025 05:49:38.119] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4badfa9c
+[01Mar2025 05:49:38.120] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1c3d9c79
+[01Mar2025 05:49:38.120] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1c3d9c79
+[01Mar2025 05:49:38.121] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@736b4c07
+[01Mar2025 05:49:38.121] [Server thread/INFO] [hordes/]: Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@736b4c07
+[01Mar2025 05:49:50.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Auron lost connection: Disconnected
+[01Mar2025 05:49:50.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Auron left the game
+[01Mar2025 05:49:50.554] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for ba8b9b91-c8b2-3e08-a4d9-38b91d4f3b80
+[01Mar2025 05:49:50.554] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Auron
+[01Mar2025 05:49:50.554] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Auron
+[01Mar2025 05:49:51.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SKOLLGAAAA lost connection: Disconnected
+[01Mar2025 05:49:51.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SKOLLGAAAA left the game
+[01Mar2025 05:49:51.904] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for c8c75911-b753-3a56-a937-a8d079ce0fc7
+[01Mar2025 05:49:51.904] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SKOLLGAAAA
+[01Mar2025 05:49:51.905] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of SKOLLGAAAA
+[01Mar2025 05:49:58.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TenMouse lost connection: Disconnected
+[01Mar2025 05:49:58.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TenMouse left the game
+[01Mar2025 05:49:58.701] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f5c4f1b1-22db-3580-add9-49b20a19181a
+[01Mar2025 05:49:58.701] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TenMouse
+[01Mar2025 05:49:58.701] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of TenMouse
+[01Mar2025 05:50:02.104] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2233 in lostcities:lostcity
+[01Mar2025 05:50:02.105] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2233 in minecraft:the_end
+[01Mar2025 05:50:02.105] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2233 in minecraft:the_nether
+[01Mar2025 05:50:02.106] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2233 in deceasedcraft:abyss
+[01Mar2025 05:50:02.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CONSTITUCION has made the advancement [Keep Going]
+[01Mar2025 05:50:02.143] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2233 in minecraft:overworld
+[01Mar2025 05:50:04.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[01Mar2025 05:50:04.800] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[01Mar2025 05:50:04.803] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: 6a2f121d-bc0c-314f-ac02-e1bcfbe1748f
+[01Mar2025 05:50:04.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Mar2025 05:50:04.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Mar2025 05:50:04.822] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CONSTITUCION lost connection: Server closed
+[01Mar2025 05:50:04.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CONSTITUCION left the game
+[01Mar2025 05:50:04.822] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 6a2f121d-bc0c-314f-ac02-e1bcfbe1748f
+[01Mar2025 05:50:04.823] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of CONSTITUCION
+[01Mar2025 05:50:04.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Mar2025 05:50:06.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Mar2025 05:50:06.124] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[3, 3] Saved.
+[01Mar2025 05:50:06.124] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[3, 4] Saved.
+[01Mar2025 05:50:06.124] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[3, 5] Saved.
+[01Mar2025 05:50:06.125] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-194
+[01Mar2025 05:50:06.125] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[01Mar2025 05:50:06.128] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[2, 4] Saved.
+[01Mar2025 05:50:06.129] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[4, 5] Saved.
+[01Mar2025 05:50:06.129] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[4, 4] Saved.
+[01Mar2025 05:50:11.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[01Mar2025 05:50:11.005] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-195
+[01Mar2025 05:50:11.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Mar2025 05:50:11.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Mar2025 05:50:11.007] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-196
+[01Mar2025 05:50:11.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deceasedcraft:abyss
+[01Mar2025 05:50:11.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 05:50:11.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 05:50:11.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Mar2025 05:50:11.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[01Mar2025 05:50:11.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Mar2025 05:50:11.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Mar2025 05:50:11.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (abyss): All chunks are saved
+[01Mar2025 05:50:11.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Mar2025 05:50:11.101] [Server thread/DEBUG] [mixin/]: Mixing common.access.entity.AccessFakePlayerFactory from crafttweaker.forge.mixins.json into net.minecraftforge.common.util.FakePlayerFactory
+[01Mar2025 05:50:11.101] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getFakePlayers()Ljava/util/Map; to crafttweaker$getFakePlayers_$md$26a9c9$0 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[01Mar2025 05:50:11.101] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getMINECRAFT()Lcom/mojang/authlib/GameProfile; to crafttweaker$getMINECRAFT_$md$26a9c9$1 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[01Mar2025 05:50:11.102] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[01Mar2025 05:50:11.103] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[01Mar2025 05:50:11.220] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for lostcities:lostcity
+[01Mar2025 05:50:11.220] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for lostcities:lostcity
+[01Mar2025 05:50:11.221] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[01Mar2025 05:50:11.221] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[01Mar2025 05:50:11.221] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[01Mar2025 05:50:11.221] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[01Mar2025 05:50:11.221] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for null
+[01Mar2025 05:50:11.221] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for null
+[01Mar2025 05:50:11.222] [Worker-Main51/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main51 shutdown
+[01Mar2025 05:50:11.222] [Worker-Main21/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main21 shutdown
+[01Mar2025 05:50:11.222] [Worker-Main54/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main54 shutdown
+[01Mar2025 05:50:11.222] [Worker-Main63/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main63 shutdown
+[01Mar2025 05:50:11.222] [Worker-Main57/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main57 shutdown
+[01Mar2025 05:50:11.223] [Worker-Main60/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main60 shutdown
+[01Mar2025 05:50:11.223] [Worker-Main4/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main4 shutdown
+[01Mar2025 05:50:11.223] [Worker-Main10/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main10 shutdown
+[01Mar2025 05:50:11.223] [Worker-Main62/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main62 shutdown
+[01Mar2025 05:50:11.223] [Worker-Main48/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main48 shutdown
+[01Mar2025 05:50:11.223] [Worker-Main61/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main61 shutdown
+[01Mar2025 05:50:11.223] [Worker-Main59/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main59 shutdown
+[01Mar2025 05:50:11.223] [Worker-Main56/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main56 shutdown
+[01Mar2025 05:50:11.223] [Worker-Main55/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main55 shutdown
+[01Mar2025 05:50:11.223] [Worker-Main53/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main53 shutdown
+[01Mar2025 05:50:11.223] [Worker-Main47/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main47 shutdown
+[01Mar2025 05:50:11.222] [Worker-Main58/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main58 shutdown
+[01Mar2025 05:50:11.222] [Worker-Main49/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main49 shutdown
+[01Mar2025 05:50:11.223] [Worker-Main9/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main9 shutdown
+[01Mar2025 05:50:11.223] [Worker-Main50/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main50 shutdown
+[01Mar2025 05:50:11.223] [Worker-Main24/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main24 shutdown
+[01Mar2025 05:50:11.223] [Worker-Main52/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main52 shutdown
+[01Mar2025 05:50:11.222] [Worker-Main18/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main18 shutdown
+[01Mar2025 05:50:11.224] [Server thread/DEBUG] [immersivepetroleum/]: [ReservoirIslands]: Clearing Cache...
+[01Mar2025 05:50:11.225] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[01Mar2025 05:50:11.226] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[01Mar2025 05:50:11.226] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[01Mar2025 05:50:11.226] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[01Mar2025 05:50:11.233] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[01Mar2025 05:50:11.234] [Server thread/INFO] [configured/]: Unloading server configs...
+[01Mar2025 05:50:11.234] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
+[01Mar2025 05:50:11.234] [Server thread/DEBUG] [firstaid/]: Cleaning up
+[01Mar2025 05:50:11.235] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[01Mar2025 05:50:11.235] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
