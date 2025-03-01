@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-02-28 02:33:41 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-27 00:16:52 +0000"
@@ -318,6 +324,12 @@
     },
     "done": true
   },
+  "create:track_0": {
+    "criteria": {
+      "0": "2025-02-28 00:59:15 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-02-27 02:34:41 +0000"
@@ -408,6 +420,12 @@
     },
     "done": true
   },
+  "refinedstorage:root": {
+    "criteria": {
+      "controller_in_inventory": "2025-02-28 03:03:01 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-27 00:16:52 +0000"
@@ -434,6 +452,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-02-28 03:08:05 +0000",
       "fungal_jungle": "2025-02-27 04:50:25 +0000",
       "lush_savanna": "2025-02-27 02:28:21 +0000",
       "dryland": "2025-02-27 00:16:52 +0000",
@@ -499,6 +518,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-02-27 02:02:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2025-02-28 01:14:55 +0000"
     },
     "done": true
   },
@@ -596,13 +621,20 @@
     "criteria": {
       "minecraft:husk": "2025-02-27 01:27:43 +0000",
       "minecraft:zombie": "2025-02-27 01:28:15 +0000",
-      "minecraft:drowned": "2025-02-27 06:01:55 +0000"
+      "minecraft:drowned": "2025-02-27 06:01:55 +0000",
+      "minecraft:zombie_villager": "2025-02-28 02:45:00 +0000"
     },
     "done": false
   },
   "pfm:recipes/root": {
     "criteria": {
       "has_planks": "2025-02-27 01:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-28 01:22:12 +0000"
     },
     "done": true
   },

@@ -25,7 +25,8 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
-      "vegetable_soup": "2025-02-27 01:00:54 +0000"
+      "vegetable_soup": "2025-02-27 01:00:54 +0000",
+      "fried_rice": "2025-02-28 02:46:53 +0000"
     },
     "done": false
   },
@@ -260,6 +261,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-28 00:28:42 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2025-02-27 00:51:28 +0000"
@@ -290,6 +297,12 @@
     },
     "done": true
   },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2025-02-28 02:15:47 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-02-27 00:51:28 +0000"
@@ -311,6 +324,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-02-27 00:54:54 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-28 02:15:20 +0000"
     },
     "done": true
   },
@@ -398,6 +417,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-02-28 00:30:02 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-27 00:51:28 +0000"
@@ -420,7 +445,8 @@
     "criteria": {
       "woodland": "2025-02-27 04:52:56 +0000",
       "lush_savanna": "2025-02-27 01:58:31 +0000",
-      "dryland": "2025-02-27 00:51:28 +0000"
+      "dryland": "2025-02-27 00:51:28 +0000",
+      "wasteland": "2025-02-28 02:12:11 +0000"
     },
     "done": false
   },
@@ -652,6 +678,18 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2025-02-27 00:51:28 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-02-28 02:28:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-28 02:27:10 +0000"
     },
     "done": true
   },
