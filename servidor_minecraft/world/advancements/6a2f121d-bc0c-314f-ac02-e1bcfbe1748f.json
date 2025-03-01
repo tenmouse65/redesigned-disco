@@ -125,15 +125,15 @@
     },
     "done": true
   },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2025-02-27 06:34:43 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2025-02-27 05:08:29 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-02-27 06:34:43 +0000"
     },
     "done": true
   },
@@ -335,12 +335,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie": "2025-02-27 05:41:36 +0000"
-    },
-    "done": true
-  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-02-27 05:08:29 +0000"
@@ -350,6 +344,12 @@
   "ag_day_counter:day_counter_root_advancement": {
     "criteria": {
       "day_counter_root_advancement": "2025-02-27 05:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-02-27 05:41:36 +0000"
     },
     "done": true
   },

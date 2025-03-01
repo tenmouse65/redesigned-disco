@@ -1020,3 +1020,33 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [01Mar2025 04:24:37.249] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 6a2f121d-bc0c-314f-ac02-e1bcfbe1748f
 [01Mar2025 04:24:38.481] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CONSTITUCION (17)
 [01Mar2025 04:24:38.481] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CONSTITUCION
+[01Mar2025 04:24:53.722] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6a2f121d-bc0c-314f-ac02-e1bcfbe1748f
+[01Mar2025 04:24:54.724] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6a2f121d-bc0c-314f-ac02-e1bcfbe1748f
+[01Mar2025 04:24:54.725] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CONSTITUCION (6a2f121d-bc0c-314f-ac02-e1bcfbe1748f) successfully connected to voice chat
+[01Mar2025 04:29:29.080] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=56, y=17, z=301}
+[01Mar2025 04:29:43.196] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/30540, l='ServerLevel[world]', x=136.50, y=53.00, z=118.50]
+[01Mar2025 04:29:48.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CONSTITUCION was slain by The Moonflower
+[01Mar2025 04:29:50.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 04:29:50.761] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:30:55.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CONSTITUCION was slain by The Moonflower
+[01Mar2025 04:30:56.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 04:30:56.704] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:31:34.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TenMouse drowned whilst trying to escape The Moonflower
+[01Mar2025 04:32:28.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CONSTITUCION has reached the goal [Modern Materials]
+[01Mar2025 04:32:28.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 04:32:28.574] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:33:08.803] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@fc8c0ad
+[01Mar2025 04:33:08.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IN[/100.75.57.51:61721] logged in with entity id 48288 at (-175.5, 72.0, -79.5)
+[01Mar2025 04:33:08.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IN joined the game
+[01Mar2025 04:33:08.821] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:33:08.880] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8402eb85-0f29-3eca-a89c-5cfdb4065c95
+[01Mar2025 04:33:08.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IN has made the advancement [Inhospitable]
+[01Mar2025 04:33:09.735] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of IN (17)
+[01Mar2025 04:33:09.735] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to IN
+[01Mar2025 04:33:22.229] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8402eb85-0f29-3eca-a89c-5cfdb4065c95
+[01Mar2025 04:33:23.230] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8402eb85-0f29-3eca-a89c-5cfdb4065c95
+[01Mar2025 04:33:23.230] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player IN (8402eb85-0f29-3eca-a89c-5cfdb4065c95) successfully connected to voice chat
+[01Mar2025 04:34:32.403] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IN lost connection: Disconnected
+[01Mar2025 04:34:32.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IN left the game
+[01Mar2025 04:34:32.405] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8402eb85-0f29-3eca-a89c-5cfdb4065c95
+[01Mar2025 04:34:32.406] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client IN

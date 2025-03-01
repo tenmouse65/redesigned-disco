@@ -17104,3 +17104,840 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [01Mar2025 04:24:38.481] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with CONSTITUCION
 [01Mar2025 04:24:38.481] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with CONSTITUCION
 [01Mar2025 04:24:38.481] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CONSTITUCION
+[01Mar2025 04:24:53.722] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6a2f121d-bc0c-314f-ac02-e1bcfbe1748f
+[01Mar2025 04:24:54.724] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6a2f121d-bc0c-314f-ac02-e1bcfbe1748f
+[01Mar2025 04:24:54.725] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of CONSTITUCION to connected: {disabled=false, disconnected=false, uuid=6a2f121d-bc0c-314f-ac02-e1bcfbe1748f, name=CONSTITUCION, group=null}
+[01Mar2025 04:24:54.725] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CONSTITUCION (6a2f121d-bc0c-314f-ac02-e1bcfbe1748f) successfully connected to voice chat
+[01Mar2025 04:24:54.912] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CONSTITUCION: {disabled=false, disconnected=false, uuid=6a2f121d-bc0c-314f-ac02-e1bcfbe1748f, name=CONSTITUCION, group=null}
+[01Mar2025 04:25:08.043] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[01Mar2025 04:25:08.093] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[01Mar2025 04:25:15.605] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[01Mar2025 04:25:15.606] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[01Mar2025 04:25:15.607] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[01Mar2025 04:25:15.608] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[01Mar2025 04:25:15.609] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[01Mar2025 04:25:15.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 04:25:15.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 04:27:19.460] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[01Mar2025 04:27:19.461] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[01Mar2025 04:27:19.461] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[01Mar2025 04:27:19.462] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[01Mar2025 04:28:03.168] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:28:03.716] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:28:04.266] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:28:04.268] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:28:05.574] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:28:18.811] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@2dcac525 for service interface com.blamejared.clumps.platform.IEventHelper
+[01Mar2025 04:28:18.812] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@3624fe01 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[01Mar2025 04:28:24.133] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[01Mar2025 04:28:24.134] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[01Mar2025 04:28:24.142] [Server thread/DEBUG] [mixin/]: Mixing allocations.do_nothing.PiglinAiMixin from saturn.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[01Mar2025 04:28:24.142] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from hordes.mixin.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[01Mar2025 04:28:24.143] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[01Mar2025 04:28:28.243] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[01Mar2025 04:28:34.207] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[01Mar2025 04:28:59.556] [Worker-Main50/DEBUG] [mixin/]: Mixing gen.chunk_region.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[01Mar2025 04:28:59.583] [Worker-Main58/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[01Mar2025 04:29:00.635] [Worker-Main56/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ussnavy
+[01Mar2025 04:29:15.198] [Server thread/DEBUG] [mixin/]: Mixing ai.pathing.FlyNodeEvaluatorMixin from canary.mixins.json into net.minecraft.world.level.pathfinder.FlyNodeEvaluator
+[01Mar2025 04:29:25.045] [Server thread/DEBUG] [mixin/]: Mixing cached_hashcode.BlockStatePairKeyMixin from canary.mixins.json into net.minecraft.world.level.block.Block$BlockStatePairKey
+[01Mar2025 04:29:28.871] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:29.080] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=56, y=17, z=301}
+[01Mar2025 04:29:29.429] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:29.476] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:29.486] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:29.547] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:29.547] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:29.578] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:29.630] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:29.630] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:29.678] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:29.678] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.006] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.038] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.085] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.136] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.140] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.188] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.211] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.226] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.278] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.288] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.332] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.383] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.384] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.428] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.436] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.480] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.524] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.538] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.568] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.632] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.657] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.672] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.716] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.722] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.772] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.780] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.818] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.878] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.909] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.922] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.974] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:30.978] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.026] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.034] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.078] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.116] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.174] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.184] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.228] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.236] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.272] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.320] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.328] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.372] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.386] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.420] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.466] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.476] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.528] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.568] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.578] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.622] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.662] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.672] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.727] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.727] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.778] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.826] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.827] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.874] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.928] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.938] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.974] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:31.976] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:32.034] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:32.040] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:36.582] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.076] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.084] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.128] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.166] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.167] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.222] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.230] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.270] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.322] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.330] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.372] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.416] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.478] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.480] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.558] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.558] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.570] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.622] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.628] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.674] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.720] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.776] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.786] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.834] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.857] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.874] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.923] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.966] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:37.976] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.020] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.026] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.070] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.114] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.128] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.173] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.174] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.222] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.271] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.276] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.328] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.338] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.373] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.424] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.434] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.480] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.523] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.582] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.582] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.622] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.674] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.714] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.728] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.770] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.826] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.836] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.874] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.888] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.922] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.986] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:38.986] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.028] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.036] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.066] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.130] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.157] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.182] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.220] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.232] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.282] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.282] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.322] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.408] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.408] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.417] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.480] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.481] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.532] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.573] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.608] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.622] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.674] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.764] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.788] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.789] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.842] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.842] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.881] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.881] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.936] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.936] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:39.982] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.026] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.082] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.082] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.136] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.178] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.178] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.230] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.231] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.273] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.342] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.343] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.390] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.390] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.439] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.439] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.480] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.539] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.566] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.618] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.642] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.685] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.728] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.732] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.780] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.830] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.830] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.882] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.882] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.924] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.974] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:40.978] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.014] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.105] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.106] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.120] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.176] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.176] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.224] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.234] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.274] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.320] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.332] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.368] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.418] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.424] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.462] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.518] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.526] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.586] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.590] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.618] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.678] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.686] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.724] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.778] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.788] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.824] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.862] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.868] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.936] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.936] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:41.981] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.038] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.039] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.083] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.086] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.122] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.172] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.174] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.230] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.236] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.272] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.322] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.326] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.369] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.410] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.482] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.509] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.514] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.520] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.578] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.588] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.614] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.672] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.722] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.734] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.772] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.824] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.824] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.874] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.876] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.914] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.970] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:42.970] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:43.026] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:43.040] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:43.064] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:43.116] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:43.122] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:43.174] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:43.196] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/30540, l='ServerLevel[world]', x=136.50, y=53.00, z=118.50]
+[01Mar2025 04:29:43.216] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:43.222] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:43.278] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:43.278] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:43.317] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:48.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CONSTITUCION was slain by The Moonflower
+[01Mar2025 04:29:50.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 04:29:50.761] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:29:55.970] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:56.468] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:56.521] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:56.536] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:56.572] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:56.620] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:56.620] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:56.666] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:56.680] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:56.740] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:56.778] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:56.788] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:56.818] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:56.870] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:56.887] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:56.942] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:56.942] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:56.969] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:57.029] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:57.034] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:29:57.092] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:15.561] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[01Mar2025 04:30:15.569] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[01Mar2025 04:30:15.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 04:30:15.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 04:30:30.864] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:31.622] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:32.266] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:32.770] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:32.822] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:32.834] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:34.789] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:35.266] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:35.330] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:35.336] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:35.368] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:35.420] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:35.422] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:35.460] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:35.514] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:35.520] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:35.566] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:35.574] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:35.615] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:35.664] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:35.664] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:35.712] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:35.765] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:35.767] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:35.814] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:30:55.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CONSTITUCION was slain by The Moonflower
+[01Mar2025 04:30:56.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 04:30:56.704] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:31:34.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TenMouse drowned whilst trying to escape The Moonflower
+[01Mar2025 04:31:48.193] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[01Mar2025 04:32:24.896] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[01Mar2025 04:32:24.896] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[01Mar2025 04:32:28.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CONSTITUCION has reached the goal [Modern Materials]
+[01Mar2025 04:32:28.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 04:32:28.574] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:32:29.407] [IO-Worker-82/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[01Mar2025 04:32:29.407] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[01Mar2025 04:32:50.844] [Server thread/DEBUG] [mixin/]: Mixing fastbench.MixinFastBenchUtil from polymorph_integrations.mixins.json into shadows.fastbench.util.FastBenchUtil
+[01Mar2025 04:32:50.844] [Server thread/DEBUG] [mixin/]: polymorph_integrations.mixins.json:fastbench.MixinFastBenchUtil: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[01Mar2025 04:33:05.537] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 62 messages to dispatch.
+[01Mar2025 04:33:05.554] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[01Mar2025 04:33:05.602] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[01Mar2025 04:33:05.654] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 2
+[01Mar2025 04:33:05.703] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 3
+[01Mar2025 04:33:05.754] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 4
+[01Mar2025 04:33:05.776] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[01Mar2025 04:33:05.776] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[01Mar2025 04:33:05.776] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'watut:main' : Version test of '4' from client : ACCEPTED
+[01Mar2025 04:33:05.776] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'parcool:message' : Version test of '16.14' from client : ACCEPTED
+[01Mar2025 04:33:05.776] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Mar2025 04:33:05.776] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[01Mar2025 04:33:05.776] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'firstaid:channel' : Version test of '3.0' from client : ACCEPTED
+[01Mar2025 04:33:05.776] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[01Mar2025 04:33:05.777] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enhancedvisuals:main' : Version test of '1.0' from client : ACCEPTED
+[01Mar2025 04:33:05.777] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[01Mar2025 04:33:05.777] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cfm:network' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.777] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'configured:handshake' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.777] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'zombie_extreme:zombie_extreme' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.777] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Mar2025 04:33:05.777] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enhancedcelestials:network' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.777] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'drg_flares:packets' : Version test of '1.0' from client : ACCEPTED
+[01Mar2025 04:33:05.777] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pipez:default' : Version test of '1.0.0' from client : ACCEPTED
+[01Mar2025 04:33:05.777] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'apocalypsenow:apocalypsenow' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.777] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mutationcraft:mutationcraft' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.777] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bettercombat:network' : Version test of '1.0' from client : ACCEPTED
+[01Mar2025 04:33:05.777] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Mar2025 04:33:05.777] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.777] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cosmeticarmorreworked:main' : Version test of '2' from client : ACCEPTED
+[01Mar2025 04:33:05.777] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'customportalapi:main' : Version test of '1.6' from client : ACCEPTED
+[01Mar2025 04:33:05.777] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[01Mar2025 04:33:05.777] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1.0' from client : ACCEPTED
+[01Mar2025 04:33:05.777] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hordes:infection' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.777] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tac:play' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.777] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lootr:main_network_channel' : Version test of '2' from client : ACCEPTED
+[01Mar2025 04:33:05.777] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Mar2025 04:33:05.777] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ritchiesprojectilelib:network' : Version test of '1.0.0' from client : ACCEPTED
+[01Mar2025 04:33:05.778] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hordes:hordeevent' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.778] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[01Mar2025 04:33:05.778] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cold_sweat:main' : Version test of '0.1.2' from client : ACCEPTED
+[01Mar2025 04:33:05.778] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'thirst:main' : Version test of '0.1.1' from client : ACCEPTED
+[01Mar2025 04:33:05.778] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'kiwi:main' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.778] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corpse:default' : Version test of '1.0.0' from client : ACCEPTED
+[01Mar2025 04:33:05.778] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Mar2025 04:33:05.778] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'createbigcannons:network' : Version test of '2.0.0' from client : ACCEPTED
+[01Mar2025 04:33:05.778] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lostcities:lostcities' : Version test of '1.0' from client : ACCEPTED
+[01Mar2025 04:33:05.778] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Mar2025 04:33:05.778] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.778] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'polymorph:main' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.778] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'explorerscompass:explorerscompass' : Version test of '1.0' from client : ACCEPTED
+[01Mar2025 04:33:05.778] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supermartijn642configlib:sync_configs' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.778] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'undead_revamp2:undead_revamp2' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.778] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_sa:create_sa' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.778] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puffish_skills:skill_click' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.778] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'camera:default' : Version test of '1.0.0' from client : ACCEPTED
+[01Mar2025 04:33:05.778] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Mar2025 04:33:05.778] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'artifacts:main' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.778] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'openpartiesandclaims:main' : Version test of '1.4.0' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pfm:main_channel' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'atlaslib:main' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'guardvillagers:main' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'immersivepetroleum:main' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fastbench:channel' : Version test of '4.6.0' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'theoneprobe:theoneprobe' : Version test of '1.0' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easy_villagers:default' : Version test of '1.0.0' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'diet:main' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'simpleplanes:main' : Version test of '9' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cgm:play' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_central_kitchen:farmersdelight' : Version test of '1.3.0' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dummmmmmy:dummychannel' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'car:default' : Version test of '1.0.0' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'harvestwithease:main' : Version test of '1.18-6.1' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'crafttweaker:main' : Version test of '1.0.0' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sereneseasons:main_channel' : Version test of '0' from client : ACCEPTED
+[01Mar2025 04:33:05.779] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create:main' : Version test of '3' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'createaddition:main' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'comforts:main' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'configured:play' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.17.0.8' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'storagedrawers:main_channel' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.7' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ag_day_counter:ag_day_counter' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Version test of '1.0.0' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pehkui:main' : Version test of '2' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'solcarrot:main' : Version test of '1.0' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'selene:network' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'zombiemobs:zombiemobs' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trashslot:network' : Version test of '1.0' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'naturescompass:naturescompass' : Version test of '1.0' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trashcans:main' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib3:main' : Version test of '0' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'horde_hoard:horde_hoard' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refinedstorage:main_channel' : Version test of '1' from client : ACCEPTED
+[01Mar2025 04:33:05.780] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[01Mar2025 04:33:05.781] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[01Mar2025 04:33:05.781] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[01Mar2025 04:33:05.781] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:05.781] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:05.808] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 5
+[01Mar2025 04:33:05.852] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 6
+[01Mar2025 04:33:05.903] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 7
+[01Mar2025 04:33:05.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[01Mar2025 04:33:05.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:05.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:05.952] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 8
+[01Mar2025 04:33:05.977] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[01Mar2025 04:33:05.977] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:05.977] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:05.977] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[01Mar2025 04:33:05.977] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:05.977] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:06.002] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 9
+[01Mar2025 04:33:06.054] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:data_serializers' to 'fml:handshake' sequence 10
+[01Mar2025 04:33:06.102] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 11
+[01Mar2025 04:33:06.155] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 12
+[01Mar2025 04:33:06.206] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry simpleplanes:upgrade_types' to 'fml:handshake' sequence 13
+[01Mar2025 04:33:06.244] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[01Mar2025 04:33:06.244] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:06.244] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:06.245] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[01Mar2025 04:33:06.245] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:06.245] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:06.246] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[01Mar2025 04:33:06.247] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:06.247] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:06.255] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 14
+[01Mar2025 04:33:06.309] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[01Mar2025 04:33:06.309] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:06.309] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:06.309] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[01Mar2025 04:33:06.309] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:06.309] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:06.309] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[01Mar2025 04:33:06.310] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:06.310] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:06.310] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[01Mar2025 04:33:06.310] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:06.310] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:06.312] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 15
+[01Mar2025 04:33:06.313] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[01Mar2025 04:33:06.313] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:06.313] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:06.360] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:motive' to 'fml:handshake' sequence 16
+[01Mar2025 04:33:06.362] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[01Mar2025 04:33:06.362] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:06.362] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:06.406] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 17
+[01Mar2025 04:33:06.418] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[01Mar2025 04:33:06.418] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:06.418] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:06.455] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 18
+[01Mar2025 04:33:06.467] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[01Mar2025 04:33:06.467] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:06.467] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:06.503] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config pipez-server.toml' to 'fml:handshake' sequence 19
+[01Mar2025 04:33:06.512] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[01Mar2025 04:33:06.512] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:06.512] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:06.568] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config parcool-server.toml' to 'fml:handshake' sequence 20
+[01Mar2025 04:33:06.602] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config readyplayerfun-server.toml' to 'fml:handshake' sequence 21
+[01Mar2025 04:33:06.655] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config diet-groups.toml' to 'fml:handshake' sequence 22
+[01Mar2025 04:33:06.705] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 23
+[01Mar2025 04:33:06.753] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config camera-server.toml' to 'fml:handshake' sequence 24
+[01Mar2025 04:33:06.801] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ritchiesprojectilelib-server.toml' to 'fml:handshake' sequence 25
+[01Mar2025 04:33:06.852] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cgm-server.toml' to 'fml:handshake' sequence 26
+[01Mar2025 04:33:06.901] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config immersivepetroleum-server.toml' to 'fml:handshake' sequence 27
+[01Mar2025 04:33:06.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[01Mar2025 04:33:06.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:06.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:06.923] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[01Mar2025 04:33:06.923] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:06.923] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:06.924] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[01Mar2025 04:33:06.924] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:06.924] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:06.925] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[01Mar2025 04:33:06.926] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:06.926] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:06.933] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[01Mar2025 04:33:06.934] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:06.934] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:06.934] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[01Mar2025 04:33:06.934] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:06.934] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:06.935] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[01Mar2025 04:33:06.935] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:06.935] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:06.935] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[01Mar2025 04:33:06.935] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:06.935] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:06.952] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config carryon-server.toml' to 'fml:handshake' sequence 28
+[01Mar2025 04:33:06.960] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[01Mar2025 04:33:06.960] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:06.960] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:07.002] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 29
+[01Mar2025 04:33:07.009] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[01Mar2025 04:33:07.009] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:07.009] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:07.055] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config fastleafdecay-server.toml' to 'fml:handshake' sequence 30
+[01Mar2025 04:33:07.060] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[01Mar2025 04:33:07.060] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:07.060] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:07.103] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config createbigcannons-server.toml' to 'fml:handshake' sequence 31
+[01Mar2025 04:33:07.110] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[01Mar2025 04:33:07.110] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:07.110] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:07.151] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sereneseasons-server.toml' to 'fml:handshake' sequence 32
+[01Mar2025 04:33:07.162] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[01Mar2025 04:33:07.162] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:07.162] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:07.203] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config railways-server.toml' to 'fml:handshake' sequence 33
+[01Mar2025 04:33:07.210] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[01Mar2025 04:33:07.210] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:07.210] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:07.253] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config comforts-server.toml' to 'fml:handshake' sequence 34
+[01Mar2025 04:33:07.257] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[01Mar2025 04:33:07.257] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:07.257] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:07.302] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config diet-effects.toml' to 'fml:handshake' sequence 35
+[01Mar2025 04:33:07.310] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[01Mar2025 04:33:07.310] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:07.310] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:07.354] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config pehkui-server.toml' to 'fml:handshake' sequence 36
+[01Mar2025 04:33:07.359] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[01Mar2025 04:33:07.360] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:07.360] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:07.402] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 37
+[01Mar2025 04:33:07.416] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[01Mar2025 04:33:07.416] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:07.416] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:07.451] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tac-server.toml' to 'fml:handshake' sequence 38
+[01Mar2025 04:33:07.462] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[01Mar2025 04:33:07.462] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:07.462] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:07.503] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config car-server.toml' to 'fml:handshake' sequence 39
+[01Mar2025 04:33:07.508] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[01Mar2025 04:33:07.508] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:07.508] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:07.552] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 40
+[01Mar2025 04:33:07.557] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 38
+[01Mar2025 04:33:07.557] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 38 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:07.557] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:07.603] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config solcarrot-server.toml' to 'fml:handshake' sequence 41
+[01Mar2025 04:33:07.612] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 39
+[01Mar2025 04:33:07.612] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 39 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:07.613] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:07.655] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easy_villagers-server.toml' to 'fml:handshake' sequence 42
+[01Mar2025 04:33:07.659] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 40
+[01Mar2025 04:33:07.659] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 40 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:07.659] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:07.706] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config diet-server.toml' to 'fml:handshake' sequence 43
+[01Mar2025 04:33:07.732] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 41
+[01Mar2025 04:33:07.732] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 41 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:07.733] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:07.752] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config immersiveposts-server.toml' to 'fml:handshake' sequence 44
+[01Mar2025 04:33:07.761] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 42
+[01Mar2025 04:33:07.761] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 42 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:07.761] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:07.802] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config refinedstorage-server.toml' to 'fml:handshake' sequence 45
+[01Mar2025 04:33:07.812] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 43
+[01Mar2025 04:33:07.812] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 43 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:07.812] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:07.858] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 44
+[01Mar2025 04:33:07.858] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 44 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:07.858] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:07.906] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config firstaid-server.toml' to 'fml:handshake' sequence 47
+[01Mar2025 04:33:07.908] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 45
+[01Mar2025 04:33:07.909] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 45 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:07.909] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:07.954] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 48
+[01Mar2025 04:33:07.962] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 46
+[01Mar2025 04:33:07.962] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 46 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:07.962] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:08.002] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config artifacts-server.toml' to 'fml:handshake' sequence 49
+[01Mar2025 04:33:08.012] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 47
+[01Mar2025 04:33:08.012] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 47 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:08.012] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:08.053] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config openpartiesandclaims-server.toml' to 'fml:handshake' sequence 50
+[01Mar2025 04:33:08.060] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 48
+[01Mar2025 04:33:08.060] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 48 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:08.060] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:08.104] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 51
+[01Mar2025 04:33:08.110] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 49
+[01Mar2025 04:33:08.110] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 49 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:08.110] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:08.151] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config getittogetherdrops-server.toml' to 'fml:handshake' sequence 52
+[01Mar2025 04:33:08.160] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 50
+[01Mar2025 04:33:08.160] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 50 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:08.160] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:08.203] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config lostcities-server.toml' to 'fml:handshake' sequence 53
+[01Mar2025 04:33:08.210] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 51
+[01Mar2025 04:33:08.210] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 51 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:08.210] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:08.251] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config corpse-server.toml' to 'fml:handshake' sequence 54
+[01Mar2025 04:33:08.258] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 52
+[01Mar2025 04:33:08.258] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 52 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:08.258] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:08.302] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config xptome-server.toml' to 'fml:handshake' sequence 55
+[01Mar2025 04:33:08.309] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 53
+[01Mar2025 04:33:08.309] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 53 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:08.309] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:08.357] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 54
+[01Mar2025 04:33:08.357] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 54 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:08.357] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:08.357] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config lostsouls-server.toml' to 'fml:handshake' sequence 56
+[01Mar2025 04:33:08.402] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.mrcrayfish.framework.network.message.handshake.S2CSyncedEntityData' to 'framework:handshake' sequence 57
+[01Mar2025 04:33:08.408] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 55
+[01Mar2025 04:33:08.408] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 55 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:08.408] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:08.453] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'cgm:network_gun_manager' to 'framework:handshake' sequence 58
+[01Mar2025 04:33:08.464] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 56
+[01Mar2025 04:33:08.464] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 56 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Mar2025 04:33:08.464] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:08.504] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'cgm:custom_gun_manager' to 'framework:handshake' sequence 59
+[01Mar2025 04:33:08.514] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 57
+[01Mar2025 04:33:08.514] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 57 of type com.mrcrayfish.framework.api.network.HandshakeMessage$Acknowledge
+[01Mar2025 04:33:08.514] [Netty Epoll Server IO #5/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:08.554] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'tac:network_rig_manager' to 'framework:handshake' sequence 60
+[01Mar2025 04:33:08.569] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 58
+[01Mar2025 04:33:08.570] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 58 of type com.mrcrayfish.framework.api.network.HandshakeMessage$Acknowledge
+[01Mar2025 04:33:08.570] [Netty Epoll Server IO #5/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:08.601] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'tac:network_gun_manager' to 'framework:handshake' sequence 61
+[01Mar2025 04:33:08.613] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 59
+[01Mar2025 04:33:08.613] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 59 of type com.mrcrayfish.framework.api.network.HandshakeMessage$Acknowledge
+[01Mar2025 04:33:08.613] [Netty Epoll Server IO #5/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:08.664] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 60
+[01Mar2025 04:33:08.664] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 60 of type com.mrcrayfish.framework.api.network.HandshakeMessage$Acknowledge
+[01Mar2025 04:33:08.664] [Netty Epoll Server IO #5/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:08.723] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 61
+[01Mar2025 04:33:08.723] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 61 of type com.mrcrayfish.framework.api.network.HandshakeMessage$Acknowledge
+[01Mar2025 04:33:08.723] [Netty Epoll Server IO #5/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[01Mar2025 04:33:08.753] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[01Mar2025 04:33:08.803] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@fc8c0ad
+[01Mar2025 04:33:08.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IN[/100.75.57.51:61721] logged in with entity id 48288 at (-175.5, 72.0, -79.5)
+[01Mar2025 04:33:08.806] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@13976faf into net.minecraft.network.Connection@28ae8ce
+[01Mar2025 04:33:08.807] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 232 classes
+[01Mar2025 04:33:08.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IN joined the game
+[01Mar2025 04:33:08.821] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:33:08.880] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8402eb85-0f29-3eca-a89c-5cfdb4065c95
+[01Mar2025 04:33:08.882] [Server thread/DEBUG] [FTB Quests/]: received teams login event for player 8402eb85-0f29-3eca-a89c-5cfdb4065c95, team = IN
+[01Mar2025 04:33:08.885] [Server thread/DEBUG] [FTB Quests/]: sent quest book to client: 1075 objects in 73755 bytes
+[01Mar2025 04:33:08.885] [Server thread/DEBUG] [FTB Quests/]: sending team data for team CONSTITUCION to player 8402eb85-0f29-3eca-a89c-5cfdb4065c95, self = false
+[01Mar2025 04:33:08.885] [Server thread/DEBUG] [FTB Quests/]: sending team data for team Fidelito to player 8402eb85-0f29-3eca-a89c-5cfdb4065c95, self = false
+[01Mar2025 04:33:08.885] [Server thread/DEBUG] [FTB Quests/]: sending team data for team TenMouse to player 8402eb85-0f29-3eca-a89c-5cfdb4065c95, self = false
+[01Mar2025 04:33:08.885] [Server thread/DEBUG] [FTB Quests/]: sending team data for team IN to player 8402eb85-0f29-3eca-a89c-5cfdb4065c95, self = true
+[01Mar2025 04:33:08.885] [Server thread/DEBUG] [FTB Quests/]: sending team data for team pablo to player 8402eb85-0f29-3eca-a89c-5cfdb4065c95, self = false
+[01Mar2025 04:33:08.885] [Server thread/DEBUG] [FTB Quests/]: sending team data for team Sapermix to player 8402eb85-0f29-3eca-a89c-5cfdb4065c95, self = false
+[01Mar2025 04:33:08.885] [Server thread/DEBUG] [FTB Quests/]: sending team data for team SKOLLGAAAA to player 8402eb85-0f29-3eca-a89c-5cfdb4065c95, self = false
+[01Mar2025 04:33:08.885] [Server thread/DEBUG] [FTB Quests/]: sending team data for team Auron to player 8402eb85-0f29-3eca-a89c-5cfdb4065c95, self = false
+[01Mar2025 04:33:08.887] [Server thread/DEBUG] [firstaid/]: Sending damage model to TextComponent{text='IN', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[01Mar2025 04:33:08.956] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of IN: {disabled=false, disconnected=true, uuid=8402eb85-0f29-3eca-a89c-5cfdb4065c95, name=IN, group=null}
+[01Mar2025 04:33:08.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IN has made the advancement [Inhospitable]
+[01Mar2025 04:33:09.735] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of IN (17)
+[01Mar2025 04:33:09.735] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to IN
+[01Mar2025 04:33:09.735] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with IN
+[01Mar2025 04:33:09.735] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with IN
+[01Mar2025 04:33:09.735] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to IN
+[01Mar2025 04:33:11.869] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:12.376] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:12.413] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:12.422] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:12.458] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:12.519] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:12.525] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:12.566] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:12.613] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:12.616] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:12.660] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:12.714] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:12.721] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:12.775] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:12.782] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:12.814] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:12.862] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:12.866] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:12.909] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:12.924] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:12.962] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.027] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.032] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.066] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.118] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.124] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.177] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.179] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.226] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.283] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.320] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.330] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.377] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.424] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.432] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.471] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.475] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.565] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.568] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.613] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.674] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.683] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.716] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.720] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.783] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.790] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.820] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.867] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.867] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.913] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.971] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:13.977] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:14.018] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:14.066] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:14.072] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:14.123] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:14.138] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:14.166] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:22.229] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8402eb85-0f29-3eca-a89c-5cfdb4065c95
+[01Mar2025 04:33:23.230] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8402eb85-0f29-3eca-a89c-5cfdb4065c95
+[01Mar2025 04:33:23.230] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of IN to connected: {disabled=false, disconnected=false, uuid=8402eb85-0f29-3eca-a89c-5cfdb4065c95, name=IN, group=null}
+[01Mar2025 04:33:23.230] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player IN (8402eb85-0f29-3eca-a89c-5cfdb4065c95) successfully connected to voice chat
+[01Mar2025 04:33:23.359] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of IN: {disabled=false, disconnected=false, uuid=8402eb85-0f29-3eca-a89c-5cfdb4065c95, name=IN, group=null}
+[01Mar2025 04:33:37.768] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:38.317] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:38.318] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:33:52.965] [IO-Worker-84/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[01Mar2025 04:34:01.613] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:34:02.173] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:34:02.180] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:34:03.865] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 04:34:32.403] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IN lost connection: Disconnected
+[01Mar2025 04:34:32.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IN left the game
+[01Mar2025 04:34:32.405] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8402eb85-0f29-3eca-a89c-5cfdb4065c95
+[01Mar2025 04:34:32.406] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client IN
+[01Mar2025 04:34:32.407] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of IN
+[01Mar2025 04:34:38.817] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
