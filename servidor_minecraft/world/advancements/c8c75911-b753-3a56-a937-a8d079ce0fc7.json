@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2025-03-01 06:06:54 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-02-27 04:04:11 +0000"
@@ -329,6 +335,12 @@
     },
     "done": true
   },
+  "cold_sweat:survival_tactics": {
+    "criteria": {
+      "freezing_on_fire": "2025-03-01 06:07:14 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:recipes/thermometer": {
     "criteria": {
       "has_recipe": "2025-02-27 04:04:11 +0000"
@@ -381,6 +393,8 @@
       "minecraft:beach": "2025-02-27 04:24:19 +0000",
       "minecraft:lukewarm_ocean": "2025-02-27 04:24:11 +0000",
       "minecraft:river": "2025-02-27 04:23:08 +0000",
+      "minecraft:stony_shore": "2025-03-01 06:00:49 +0000",
+      "minecraft:grove": "2025-03-01 06:05:26 +0000",
       "minecraft:forest": "2025-02-27 04:24:08 +0000",
       "minecraft:desert": "2025-02-27 04:17:10 +0000",
       "minecraft:jungle": "2025-02-27 04:24:18 +0000",

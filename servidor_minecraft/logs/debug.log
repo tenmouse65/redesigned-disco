@@ -17914,3 +17914,89 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [01Mar2025 05:59:03.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of SKOLLGAAAA: {disabled=false, disconnected=false, uuid=c8c75911-b753-3a56-a937-a8d079ce0fc7, name=SKOLLGAAAA, group=null}
 [01Mar2025 06:00:05.172] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
 [01Mar2025 06:01:06.625] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[01Mar2025 06:01:36.326] [IO-Worker-30/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[01Mar2025 06:01:38.511] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[01Mar2025 06:01:52.673] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:02:21.148] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[01Mar2025 06:02:21.149] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[01Mar2025 06:02:29.842] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[01Mar2025 06:02:29.842] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[01Mar2025 06:02:29.843] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[01Mar2025 06:02:29.843] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[01Mar2025 06:02:29.844] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[01Mar2025 06:02:29.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 06:02:29.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 06:02:37.427] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:02:37.973] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:02:37.979] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:02:38.028] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:02:38.029] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:02:38.075] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:02:38.139] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:02:38.144] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:02:38.175] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:02:38.223] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:02:38.280] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:02:38.285] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:02:38.333] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:02:38.339] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:02:38.375] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:02:38.427] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:03:54.123] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[01Mar2025 06:03:57.261] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$c265dceda20b46de9a025e29ae701811 (originally com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1)
+[01Mar2025 06:05:21.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3413ms or 68 ticks behind
+[01Mar2025 06:05:25.202] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:05:26.189] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:05:26.189] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:05:26.190] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:05:26.190] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:05:26.190] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:05:26.190] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:05:26.190] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:05:26.190] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:05:26.190] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:05:26.191] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:05:28.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Auron has made the advancement [Better than a barrel]
+[01Mar2025 06:05:30.419] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[01Mar2025 06:05:41.398] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[01Mar2025 06:06:54.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SKOLLGAAAA has made the advancement [Connecting]
+[01Mar2025 06:07:09.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Auron has completed the challenge [Desperate Measures]
+[01Mar2025 06:07:14.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SKOLLGAAAA has completed the challenge [Desperate Measures]
+[01Mar2025 06:07:19.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TenMouse has completed the challenge [Desperate Measures]
+[01Mar2025 06:07:22.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Auron died because of SKOLLGAAAA
+[01Mar2025 06:07:33.243] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[4, 5] Saved.
+[01Mar2025 06:07:33.244] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[01Mar2025 06:07:33.245] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[01Mar2025 06:07:33.255] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[01Mar2025 06:07:33.255] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[01Mar2025 06:07:33.256] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[01Mar2025 06:07:33.256] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[01Mar2025 06:07:33.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 06:07:33.310] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 06:07:34.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 06:07:34.385] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 06:07:56.871] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:08:07.952] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/60610, l='ServerLevel[world]', x=532.50, y=55.00, z=1185.50]
+[01Mar2025 06:08:26.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Auron has made the advancement [We Just Want our Hat Back]
+[01Mar2025 06:08:31.425] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:08:31.576] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:08:32.579] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:08:32.851] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/62327, l='ServerLevel[world]', x=536.50, y=54.00, z=1181.50]
+[01Mar2025 06:08:33.071] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:08:33.134] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:08:33.135] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:08:33.187] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:08:33.245] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:08:33.245] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:08:33.297] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:08:33.325] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=true, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:08:33.328] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TenMouse: {disabled=false, disconnected=false, uuid=f5c4f1b1-22db-3580-add9-49b20a19181a, name=TenMouse, group=null}
+[01Mar2025 06:08:51.643] [Server thread/DEBUG] [mixin/]: Mixing fastbench.MixinFastBenchUtil from polymorph_integrations.mixins.json into shadows.fastbench.util.FastBenchUtil
+[01Mar2025 06:08:51.643] [Server thread/DEBUG] [mixin/]: polymorph_integrations.mixins.json:fastbench.MixinFastBenchUtil: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[01Mar2025 06:08:54.803] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/63622, l='ServerLevel[world]', x=533.50, y=55.00, z=1179.50]
+[01Mar2025 06:09:01.248] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[01Mar2025 06:09:08.001] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/64426, l='ServerLevel[world]', x=534.50, y=53.00, z=1184.50]
+[01Mar2025 06:09:27.150] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[01Mar2025 06:09:47.442] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[01Mar2025 06:10:33.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SKOLLGAAAA> eeeee
+[01Mar2025 06:10:40.928] [Worker-Main5/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:lighthouse

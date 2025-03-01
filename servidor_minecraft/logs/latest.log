@@ -1046,3 +1046,19 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [01Mar2025 05:59:03.522] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player SKOLLGAAAA (c8c75911-b753-3a56-a937-a8d079ce0fc7) successfully connected to voice chat
 [01Mar2025 06:00:05.172] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
 [01Mar2025 06:01:06.625] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[01Mar2025 06:01:38.511] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[01Mar2025 06:05:21.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3413ms or 68 ticks behind
+[01Mar2025 06:05:28.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Auron has made the advancement [Better than a barrel]
+[01Mar2025 06:06:54.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SKOLLGAAAA has made the advancement [Connecting]
+[01Mar2025 06:07:09.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Auron has completed the challenge [Desperate Measures]
+[01Mar2025 06:07:14.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SKOLLGAAAA has completed the challenge [Desperate Measures]
+[01Mar2025 06:07:19.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TenMouse has completed the challenge [Desperate Measures]
+[01Mar2025 06:07:22.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Auron died because of SKOLLGAAAA
+[01Mar2025 06:07:34.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 06:07:34.385] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 06:08:07.952] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/60610, l='ServerLevel[world]', x=532.50, y=55.00, z=1185.50]
+[01Mar2025 06:08:26.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Auron has made the advancement [We Just Want our Hat Back]
+[01Mar2025 06:08:32.851] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/62327, l='ServerLevel[world]', x=536.50, y=54.00, z=1181.50]
+[01Mar2025 06:08:54.803] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/63622, l='ServerLevel[world]', x=533.50, y=55.00, z=1179.50]
+[01Mar2025 06:09:08.001] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/64426, l='ServerLevel[world]', x=534.50, y=53.00, z=1184.50]
+[01Mar2025 06:10:33.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SKOLLGAAAA> eeeee
