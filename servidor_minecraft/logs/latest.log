@@ -999,3 +999,24 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 	at java.lang.Thread.run(Thread.java:840) [?:?]
 [01Mar2025 04:05:13.677] [Server thread/INFO] [readyplayerfun/]: Pausing server onWorldTick at 692245, 713042
 [01Mar2025 04:05:13.812] [Server thread/ERROR] [net.minecraft.resources.RegistryResourceAccess$InMemoryStorage/]: Error adding element: Value provider too high: 256 [500-500]
+[01Mar2025 04:23:10.376] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@715bf332
+[01Mar2025 04:23:10.413] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TenMouse[/100.125.191.119:50495] logged in with entity id 27 at (327.6041525519171, 67.0, 6.616224631622298)
+[01Mar2025 04:23:10.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TenMouse joined the game
+[01Mar2025 04:23:10.532] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:23:10.603] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f5c4f1b1-22db-3580-add9-49b20a19181a
+[01Mar2025 04:23:10.769] [Server thread/INFO] [readyplayerfun/]: Unpausing server: onPlayerLogin, 0:17:57 at 692245, 713042
+[01Mar2025 04:23:11.743] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TenMouse (17)
+[01Mar2025 04:23:11.745] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TenMouse
+[01Mar2025 04:23:12.670] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
+[01Mar2025 04:23:12.671] [SimpleBackups/INFO] [de.melanx.simplebackups.BackupThread/]: Successfully deleted "world_2025-02-27_23-52-40.zip"
+[01Mar2025 04:23:13.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[01Mar2025 04:23:31.497] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f5c4f1b1-22db-3580-add9-49b20a19181a
+[01Mar2025 04:23:32.492] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f5c4f1b1-22db-3580-add9-49b20a19181a
+[01Mar2025 04:23:32.502] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TenMouse (f5c4f1b1-22db-3580-add9-49b20a19181a) successfully connected to voice chat
+[01Mar2025 04:24:37.164] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@62ed4023
+[01Mar2025 04:24:37.170] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CONSTITUCION[/100.91.12.62:52623] logged in with entity id 6138 at (-162.70160654457612, 73.0, -77.29051228322244)
+[01Mar2025 04:24:37.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CONSTITUCION joined the game
+[01Mar2025 04:24:37.191] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 04:24:37.249] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 6a2f121d-bc0c-314f-ac02-e1bcfbe1748f
+[01Mar2025 04:24:38.481] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CONSTITUCION (17)
+[01Mar2025 04:24:38.481] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CONSTITUCION
