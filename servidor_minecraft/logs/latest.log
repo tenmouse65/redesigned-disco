@@ -1201,3 +1201,60 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [01Mar2025 05:04:42.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [01Mar2025 05:04:42.373] [Server thread/INFO] [tac/]: PENDING
 [01Mar2025 05:04:45.741] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HuskPlayer['Auron'/229597, l='ServerLevel[world]', x=319.70, y=65.00, z=12.30] died: entity.hordes.HuskPlayer.chat was slain by CONSTITUCION
+[01Mar2025 05:05:41.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IN has made the advancement [Monster Hunter]
+[01Mar2025 05:06:02.718] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager b2cadfc9: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[01Mar2025 05:06:02.766] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager b2cadfc9: RandomSpreadSearchWorker succeeded with 3413 radius, 10 samples
+[01Mar2025 05:06:57.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Auron) moved wrongly! 0.2847681283504002
+[01Mar2025 05:06:57.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Auron) moved wrongly! 0.6440823296732034
+[01Mar2025 05:06:57.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SKOLLGAAAA) moved wrongly! 0.2927379505811061
+[01Mar2025 05:06:57.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Auron) moved wrongly! 0.28123116943375237
+[01Mar2025 05:06:57.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Auron) moved wrongly! 0.2773838788899283
+[01Mar2025 05:06:57.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SKOLLGAAAA) moved wrongly! 0.4427457318917689
+[01Mar2025 05:06:57.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Auron) moved wrongly! 0.6246377829814733
+[01Mar2025 05:06:57.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SKOLLGAAAA) moved wrongly! 0.5727812729182773
+[01Mar2025 05:06:57.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Auron) moved wrongly! 0.267614178499052
+[01Mar2025 05:06:58.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Auron) moved wrongly! 0.2528411448019199
+[01Mar2025 05:06:58.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Auron) moved wrongly! 0.36394342595720985
+[01Mar2025 05:07:03.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CONSTITUCION) moved wrongly! 0.49925959625666394
+[01Mar2025 05:07:03.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CONSTITUCION) moved wrongly! 0.8395801696611471
+[01Mar2025 05:07:03.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CONSTITUCION) moved wrongly! 1.137207666628349
+[01Mar2025 05:07:03.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CONSTITUCION) moved wrongly! 0.30593275157757205
+[01Mar2025 05:07:03.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CONSTITUCION) moved wrongly! 0.31166696322169685
+[01Mar2025 05:07:03.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CONSTITUCION) moved wrongly! 0.2810395793618383
+[01Mar2025 05:08:11.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Auron was killed by magic
+[01Mar2025 05:08:13.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.radiation
+[01Mar2025 05:08:16.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CONSTITUCION was killed by magic
+[01Mar2025 05:08:16.079] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[01Mar2025 05:08:16.080] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[01Mar2025 05:08:16.080] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[01Mar2025 05:08:16.080] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[01Mar2025 05:08:16.080] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[01Mar2025 05:08:16.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 05:08:16.596] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 05:08:19.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 05:08:19.569] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 05:08:27.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 05:08:27.617] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 05:10:00.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.radiation
+[01Mar2025 05:10:01.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 05:10:01.569] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 05:12:35.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TenMouse has reached the goal [The Upgrade]
+[01Mar2025 05:13:03.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SKOLLGAAAA) moved wrongly! 0.2569751184970528
+[01Mar2025 05:13:03.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SKOLLGAAAA) moved wrongly! 0.5026572421734272
+[01Mar2025 05:13:03.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SKOLLGAAAA) moved wrongly! 0.7759567778609835
+[01Mar2025 05:13:03.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SKOLLGAAAA) moved wrongly! 0.4989300101154299
+[01Mar2025 05:13:03.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SKOLLGAAAA) moved wrongly! 0.5050264630345396
+[01Mar2025 05:13:04.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SKOLLGAAAA) moved wrongly! 0.34643934188096637
+[01Mar2025 05:13:04.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SKOLLGAAAA) moved wrongly! 0.7095320845924675
+[01Mar2025 05:13:04.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SKOLLGAAAA) moved wrongly! 1.0717199285122092
+[01Mar2025 05:14:50.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Auron has made the advancement [Hot Stuff]
+[01Mar2025 05:15:17.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.radiation
+[01Mar2025 05:15:20.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[01Mar2025 05:15:20.332] [Server thread/INFO] [tac/]: PENDING
+[01Mar2025 05:15:29.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2433ms or 48 ticks behind
+[01Mar2025 05:15:36.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SKOLLGAAAA has made the advancement [Chompy]
+[01Mar2025 05:15:44.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SKOLLGAAAA was slain by Crocodile
+[01Mar2025 05:15:45.759] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IN lost connection: Disconnected
+[01Mar2025 05:15:45.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IN left the game
+[01Mar2025 05:15:45.759] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8402eb85-0f29-3eca-a89c-5cfdb4065c95
+[01Mar2025 05:15:45.760] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client IN

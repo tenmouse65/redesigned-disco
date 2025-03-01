@@ -450,7 +450,10 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-02-27 04:52:56 +0000",
+      "bayou": "2025-03-01 05:13:24 +0000",
+      "floodplain": "2025-03-01 05:14:32 +0000",
       "lush_savanna": "2025-02-27 01:58:31 +0000",
+      "wooded_wasteland": "2025-03-01 05:08:11 +0000",
       "dryland": "2025-02-27 00:51:28 +0000",
       "wasteland": "2025-02-28 02:12:11 +0000"
     },
@@ -496,6 +499,12 @@
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-27 00:51:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-01 05:14:50 +0000"
     },
     "done": true
   },

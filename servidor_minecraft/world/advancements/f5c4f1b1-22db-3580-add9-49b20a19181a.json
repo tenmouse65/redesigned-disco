@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/make_steel": {
+    "criteria": {
+      "has_item": "2025-03-01 05:12:35 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-02-27 00:16:52 +0000"
@@ -454,7 +460,10 @@
     "criteria": {
       "woodland": "2025-02-28 03:08:05 +0000",
       "fungal_jungle": "2025-02-27 04:50:25 +0000",
+      "bayou": "2025-03-01 05:13:49 +0000",
+      "floodplain": "2025-03-01 05:14:37 +0000",
       "lush_savanna": "2025-02-27 02:28:21 +0000",
+      "wooded_wasteland": "2025-03-01 05:08:11 +0000",
       "dryland": "2025-02-27 00:16:52 +0000",
       "lush_desert": "2025-02-27 02:30:33 +0000"
     },
@@ -500,6 +509,12 @@
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-27 00:16:52 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/multiblocks_root": {
+    "criteria": {
+      "has_item": "2025-03-01 05:12:35 +0000"
     },
     "done": true
   },
